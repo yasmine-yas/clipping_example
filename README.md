@@ -1,0 +1,2 @@
+# clipping_example
+Kotlin
